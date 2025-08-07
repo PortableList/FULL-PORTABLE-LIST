@@ -10,5 +10,6 @@ softwares:
       - linux
       - macos
     description: A terminal for a more modern age
+    tags: []
     date_added: 2025-08-08
     
