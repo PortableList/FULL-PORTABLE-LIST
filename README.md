@@ -1,6 +1,12 @@
 # FULL PORTABLE LIST
 A curated list of free and truly portable software for use on portable storage devices.
 
+<div align="center">
+  
+  [English](README.md) | [简体中文](README.zh_CN.md)
+  
+</div>
+
 <!-- Shields/Badges -->
 <p align="center">
   <img src="Shields/FPL-Native_Portable-blue.svg" alt="Native Portable"/>
