@@ -2,6 +2,7 @@ softwares:
   - name: Tabby
     homepage: https://tabby.sh/
     repo: https://github.com/Eugeny/tabby/
+    icon_url: ~
     license: MIT
     license_url: https://raw.githubusercontent.com/Eugeny/tabby/refs/heads/master/LICENSE
     portable_type: native
