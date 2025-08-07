@@ -1,0 +1,14 @@
+softwares: 
+  - name: Tabby
+    homepage: https://tabby.sh/
+    repo: https://github.com/Eugeny/tabby/
+    license: MIT
+    license_url: https://raw.githubusercontent.com/Eugeny/tabby/refs/heads/master/LICENSE
+    portable_type: native
+    platforms:
+      - windows
+      - linux
+      - macos
+    description: A terminal for a more modern age
+    date_added: 2025-08-08
+    
