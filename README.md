@@ -1,6 +1,16 @@
 # FULL PORTABLE LIST
 A curated list of free and truly portable software for use on portable storage devices.
 
+<!-- Shields/Badges -->
+<p align="center">
+  <img src="Shields/FPL-Native_Portable-blue.svg" alt="Native Portable"/>
+  <img src="Shields/FPL-Setting_Portable-brightgreen.svg" alt="Setting Portable"/>
+  <img src="Shields/FPL-Isolated_Portable-orange.svg" alt="Isolated Portable"/>
+  <img src="Shields/FPL-Fake_Portable-lightgrey.svg" alt="Fake Portable"/>
+  <img src="Shields/FPL-No_Portable-red.svg" alt="No Portable"/>
+  <img src="Shields/FPL-Runtime-purple.svg" alt="Runtime"/>
+</p>
+
 ## FULL PORTABLE Criteria
 
 - **Free Software:** Must comply with the FSF (Free Software Foundation) definition of free software.
